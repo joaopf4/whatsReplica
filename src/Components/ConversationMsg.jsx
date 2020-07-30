@@ -11,7 +11,7 @@ export default class ConversationMsg extends Component {
 
   render() {
     const { user, msg, clip } = this.props;
-    let eu = user === "Eu" || user === "eu" || user === "EU";
+    let eu = user === "Eu" || user === "eu" || user === "EU" || user === "eU";
     return (
       <Cotainer eu={eu}>
         {eu ? null : <User>{user}:</User>}
