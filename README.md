@@ -24,5 +24,9 @@
 ## Resumo do projeto:
 
 Neste projeto fizemos uma reprodução simples do WhatsApp, um produto mínimo viável de uma aplicação de chat de mensagens. 
+
+Para utilizar as mensagens, no primeiro input, digite "eu" para mandar mensagem como dono do perfil, e qualquer outra palavra para mandar mensagem como interlocutor na conversa. 
+
+
 Trabalhei neste projeto com meu colega de curso [Cazuza](https://github.com/cazuzabarberino), que muito me mostrou sobre o manuseio do estado numa aplicação como essa.
 
